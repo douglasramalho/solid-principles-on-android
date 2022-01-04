@@ -1,4 +1,4 @@
-package com.example.solidprincipleonandroidwithkotlin.dto
+package com.example.solidprincipleonandroidwithkotlin.domain.dto
 
 import com.example.solidprincipleonandroidwithkotlin.domain.entity.User
 import java.util.*

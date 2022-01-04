@@ -1,5 +1,6 @@
 package com.example.solidprincipleonandroidwithkotlin.presentation
 
+/*
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -8,7 +9,7 @@ import com.example.solidprincipleonandroidwithkotlin.data.UserRepositoryImpl
 import com.example.solidprincipleonandroidwithkotlin.domain.entity.User
 import com.example.solidprincipleonandroidwithkotlin.domain.usecase.CreateUserUseCase
 import com.example.solidprincipleonandroidwithkotlin.domain.usecase.GetUsersUseCase
-import com.example.solidprincipleonandroidwithkotlin.dto.UserDto
+import com.example.solidprincipleonandroidwithkotlin.domain.dto.UserDto
 import com.example.solidprincipleonandroidwithkotlin.framework.local.MemoryDataSource
 
 class MainViewModel(
@@ -43,4 +44,4 @@ class MainViewModel(
         }
 
     }
-}
+}*/
