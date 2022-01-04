@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SOLID Principle On Android With Kotlin</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">E-mail</string>
+    <string name="button_save">Cadastrar</string>
+</resources>
