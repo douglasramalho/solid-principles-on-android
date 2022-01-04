@@ -1,13 +1,11 @@
 package com.example.solidprincipleonandroidwithkotlin.presentation
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.solidprincipleonandroidwithkotlin.dto.UserDto
-import com.expertsclub.solidprincipleonandroidwithkotlin.R
 import com.expertsclub.solidprincipleonandroidwithkotlin.databinding.ActivityMainBinding
-import com.expertsclub.solidprincipleonandroidwithkotlin.databinding.ItemUserBinding
 
 class MainActivity : AppCompatActivity() {
 
